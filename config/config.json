@@ -1,0 +1,9 @@
+{
+  "reviews": {
+    "path": "data/Reviews.csv",
+    "sep": ",",
+    "enc": "utf-8",
+    "target_col": "['Score']",
+    "id_col": "['Id']"
+  }
+}
